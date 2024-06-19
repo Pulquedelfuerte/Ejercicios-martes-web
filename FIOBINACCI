@@ -1,4 +1,4 @@
-function imprimirSerieFibonacci(n) {
+function Fibonacci(n) {
     let a = 0, b = 1, siguiente;
     console.log(a); 
     if (n > 1) {
